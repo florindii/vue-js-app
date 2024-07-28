@@ -17,15 +17,6 @@ yarn serve
 yarn build
 ```
 
-# Octavia - Vuetify Admin dashboard Template
-
-# [Octavia Admin Pro](https://octavia-admin.vercel.app)
-
-![version](https://img.shields.io/badge/version-1.6.0-blue.svg)
-
-<a href="https://octavia-admin.vercel.app"><img src="https://i.ibb.co/mBbW0sx/01-preview.png" alt="01-preview" border="0"></a>
-
-**Octavia Admin Pro** is a Modern & beautiful Admin Dashboard built over [Vuetify](https://vuetifyjs.com/en/), [Vuex](https://vuex.vuejs.org/installation.html) and [Vuejs](https://vuejs.org/). It will help you get started and quickly developing dashboards in no time. Using This Dashboard is pretty simple Component Based Admin but requires basic knowledge of Javascript, [Vuejs](https://vuejs.org/v2/guide/) and [Vue-Router](https://router.vuejs.org/en/).
 
 ## Getting Started
 
